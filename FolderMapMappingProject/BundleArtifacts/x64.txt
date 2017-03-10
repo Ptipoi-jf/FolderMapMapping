@@ -1,0 +1,1 @@
+MainPackage=C:\Users\Utilisateur\OneDrive\FolderMapMappingProject\FolderMapMappingProject\bin\x64\Release\FolderMapMappingProject_0.8.3.0_x64.appx
